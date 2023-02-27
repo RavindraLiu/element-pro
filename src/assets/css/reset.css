@@ -1,0 +1,6 @@
+/* // 自定义全局类型
+// 通过定义一个类名空间 */
+.el-dialog.kk--choose-icon-dialog-body .el-dialog__body {
+  height: 400px;
+  overflow: scroll;
+}
